@@ -943,7 +943,7 @@ class ImagePainterState extends State<ImagePainter> {
                       },
                     ),
                     Text(
-                      'Fill',
+                      '填充',
                       style: Theme.of(context).textTheme.bodyMedium,
                     )
                   ],
